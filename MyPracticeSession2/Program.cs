@@ -26,7 +26,7 @@ namespace MyPracticeSession2
 
             byte b = 1;
             int i = b;
-            int e = 1;
+            int e = 1000;
             byte c =(byte) e;
             Console.WriteLine(i);
             Console.WriteLine(e);
