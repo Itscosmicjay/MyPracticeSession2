@@ -26,7 +26,10 @@ namespace MyPracticeSession2
 
             byte b = 1;
             int i = b;
+            int e = 1;
+            byte c =(byte) e;
             Console.WriteLine(i);
+            Console.WriteLine(e);
              
             Console.ReadLine();
         }
