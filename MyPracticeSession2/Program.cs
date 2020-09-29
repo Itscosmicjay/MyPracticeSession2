@@ -28,6 +28,8 @@ namespace MyPracticeSession2
             int i = b;
             int e = 1000;
             byte c =(byte) e;
+            string number = "1234";
+            int d = (int)number;
             Console.WriteLine(i);
             Console.WriteLine(e);
              
