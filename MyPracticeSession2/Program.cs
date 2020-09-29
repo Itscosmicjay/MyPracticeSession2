@@ -8,13 +8,13 @@ namespace MyPracticeSession2
         {
             Console.WriteLine("Hello World!");
             const float Pi = 3.14f; 
-            decimal number = 1.2m;
-            byte number=2;
-            float totalPrice = 1.2f;
-            int count = 10;
-            char character = 'A';
-            string firstName = "Mosh";
-            bool isWorking = false;
+            decimal number1 = 1.2m;
+            var number=2;
+            var totalPrice = 1.2f;
+            var count = 10;
+            var character = 'A';
+            var firstName = "Mosh";
+            var isWorking = false;
             Console.WriteLine(number);
             Console.WriteLine(count);
             Console.WriteLine(totalPrice);
