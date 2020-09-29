@@ -28,10 +28,11 @@ namespace MyPracticeSession2
             int i = b;
             int e = 1000;
             byte c =(byte) e;
-            string number = "1234";
-            int d = (int)number;
+            string number2 = "1234";
+            int d = Convert.ToInt32(number2);
             Console.WriteLine(i);
             Console.WriteLine(e);
+            Console.WriteLine(d);
              
             Console.ReadLine();
         }
